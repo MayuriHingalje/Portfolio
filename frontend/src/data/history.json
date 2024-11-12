@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "Wisdom Sprouts Pune",
+    "startDate": "Jan, 2024",
+    "endDate": "done",
+    "experiences": ["Machine Learning and Artificial Intelligence"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Domain Computer Kolhapur",
+    "startDate": "Aug, 2022",
+    "endDate": "done",
+    "experiences": ["Worked on Cisco and aws"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Internpe",
+    "startDate": "Apr, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Worked web developer"
+      
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Grampanchayat Web Application",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and developed a web application that consists of a comprehensive system.",
+    "skills": ["Php", "Mysql"],
+    "demo": "https://www.example.com",
+    "source": "git@github.com:MayuriHingalje/Grampanchayat-Web-Application.git"
+  },
+  {
+    "title": "e-commerse website",
+    "imageSrc": "projects/project.png",
+    "description": "Work on designing and implementing user interface using HTML,CSS,JAVASCRIPT.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "git@github.com:MayuriHingalje/e-commerce-Project.git"
+  },
+  {
+    "title": "Leaf Disease Prediction",
+    "imageSrc": "projects/project.png",
+    "description": "This project created in to detect plant leaf disease by using image.",
+    "skills": ["", "Machine Learning", "Deep Learning"],
+    "demo": "https://www.example.com",
+    "source": "git@github.com:MayuriHingalje/internship-project.git"
+  }
+]
